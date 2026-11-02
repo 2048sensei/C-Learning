@@ -1,2 +1,15 @@
-# Auto detect text files and perform LF normalization
+# 自动识别文本文件（不强制 eol=lf：站点文件逐字节参与 SHA-256 校验，换行归一化会让清单失效）
 * text=auto
+
+# Windows 可执行文件与图片按二进制处理，避免换行转换损坏内容
+*.exe binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.zip binary
+
+# 生成文件：折叠 diff，避免污染语言统计
+学习资源/release-info.json linguist-generated=true
+学习资源/js/search-index.js linguist-generated=true
