@@ -1,0 +1,142 @@
+{
+    "version":  "1.1.0",
+    "builtAt":  "2026-09-19T17:24:31.6229402+08:00",
+    "files":  [
+                  {
+                      "path":  "开始学习.exe",
+                      "sha256":  "877D12095FA71F90EA257CE0ABC4C45C738EAB1E2FFB2E51EECEB6A5D1C6724B"
+                  },
+                  {
+                      "path":  "学习资源/appendix-cheatsheet.html",
+                      "sha256":  "E86C13A889934EE23C77C4F613235FB3D6B8A4449F68BDE27831D3379FCEDE32"
+                  },
+                  {
+                      "path":  "学习资源/appendix-examples.html",
+                      "sha256":  "221B2647753391FEC369726CD8F5CC6ED0C87F90DC5F8AE81881278ED756EF0D"
+                  },
+                  {
+                      "path":  "学习资源/appendix-glossary.html",
+                      "sha256":  "817CB1E914F705011A5A6934CBAA9C9A7C92C6ED19724F85E9DDA8D13E84ADF5"
+                  },
+                  {
+                      "path":  "学习资源/appendix-mcu.html",
+                      "sha256":  "6FF92D75A55CE3E14D22CD38EBC9D8885CC4B81DC794B0CE05410B7BEA34B086"
+                  },
+                  {
+                      "path":  "学习资源/appendix-pitfalls.html",
+                      "sha256":  "8D1B36EBCC41DA8D2EC7A9EE22D3C3BB943710993A0675DD2CD315036895C165"
+                  },
+                  {
+                      "path":  "学习资源/appendix-tools.html",
+                      "sha256":  "DFFC897429F267537E17E6BAA3ECCD0989772FE713DB729EC94139CBA320FCB7"
+                  },
+                  {
+                      "path":  "学习资源/book.css",
+                      "sha256":  "CAD06D95CAA4FDFC6B35A92570DC8B67879DB318414C63F183806FE452FB03AB"
+                  },
+                  {
+                      "path":  "学习资源/book.js",
+                      "sha256":  "DA5C473DDF6EB1F4553EBF4CA187B4ADC2037240E102C26E35110509B49AD730"
+                  },
+                  {
+                      "path":  "学习资源/index.html",
+                      "sha256":  "E95E0720391CACE9EC80BC7D997EDB40444F0D21DD4EA9E66AAA0BCC04A5664F"
+                  },
+                  {
+                      "path":  "学习资源/review.html",
+                      "sha256":  "F648BCAC60E5A65966F25E4581631414F982517C5DF8335937D13AD445CF5095"
+                  },
+                  {
+                      "path":  "学习资源/使用说明.txt",
+                      "sha256":  "23DD3017511B81AA8D84C38CCE9D3537039DC8CDAA5BDE6B2D609BE784C38FD9"
+                  },
+                  {
+                      "path":  "学习资源/assets/favicon.svg",
+                      "sha256":  "169D209C5B2DA6DBAD9E096386DEFC775BE46E27D9D6EA73A6575936C0D8D98E"
+                  },
+                  {
+                      "path":  "学习资源/chapters/01-l01.html",
+                      "sha256":  "846F7F084538CA29A095EAF0959EE27825D454581D10081BC22C12A02D2B4C68"
+                  },
+                  {
+                      "path":  "学习资源/chapters/02-l02.html",
+                      "sha256":  "26AA41F65014A656AE116AC90902DD663A2AC439E3DE75860D0FFC17ED9D3A10"
+                  },
+                  {
+                      "path":  "学习资源/chapters/03-l03.html",
+                      "sha256":  "32C39E93A28C1DCEC3F07CC7525DC1AD74A1F8E4111A765AF12A578F1D0EC451"
+                  },
+                  {
+                      "path":  "学习资源/chapters/04-l04.html",
+                      "sha256":  "758A9F93B8EB9B8BED216F659754B403709415C85FC9ABE140F6CB2453F7CBB2"
+                  },
+                  {
+                      "path":  "学习资源/chapters/05-l05.html",
+                      "sha256":  "DB03CE71246CDF70712ADB5F77AEF5B398781307F3319192DEE0BF6AEDFB56C1"
+                  },
+                  {
+                      "path":  "学习资源/chapters/06-l06.html",
+                      "sha256":  "D1BA7B58125B0FF48BB7225DFE3396AF4C81F12F8DCB5A94EC23C57B07BB1569"
+                  },
+                  {
+                      "path":  "学习资源/chapters/07-l07.html",
+                      "sha256":  "40BED43D1D9E7395772E0FD90886AA289353A98BE35DD6729C08BC3350159B98"
+                  },
+                  {
+                      "path":  "学习资源/chapters/08-l08.html",
+                      "sha256":  "65769776BB9550B8E74EF84B05E698A6C516509B134718E4DCB197C3646B73D4"
+                  },
+                  {
+                      "path":  "学习资源/chapters/09-l09.html",
+                      "sha256":  "DD7006F5745D3000CD298F0F1F72999F950562699131402ADE5D608BC47BE0E7"
+                  },
+                  {
+                      "path":  "学习资源/chapters/10-l10.html",
+                      "sha256":  "5AC1DDEBAF8506F7DB2E1B843062A7BAB089973073184F35B94A4F5E9D70D4E7"
+                  },
+                  {
+                      "path":  "学习资源/chapters/11-l11.html",
+                      "sha256":  "07C414C34E54E850CDD3F3C166028B07F0C1AB5710F7E12C466D2B109968D644"
+                  },
+                  {
+                      "path":  "学习资源/chapters/12-l12.html",
+                      "sha256":  "F0730FBB7967172FD8A90C5E1F8B7878F895B5B1B22F42B2AC1B9B946943742D"
+                  },
+                  {
+                      "path":  "学习资源/chapters/13-l13.html",
+                      "sha256":  "27AABD6E23EB8463654E581FCB56F6A4CE6FE0B956290F7AC2C57E761844EFB7"
+                  },
+                  {
+                      "path":  "学习资源/chapters/14-l14.html",
+                      "sha256":  "1DD24840862B9ADF7FCA7CCCB698897DC5DBF2C8D79055300AD204CA4CA1D432"
+                  },
+                  {
+                      "path":  "学习资源/chapters/15-l15.html",
+                      "sha256":  "B210ED3F412F5B8B25986BA37C682AE530268077AF1396B98361FD63F4A38C73"
+                  },
+                  {
+                      "path":  "学习资源/chapters/16-l16.html",
+                      "sha256":  "1C222ACB6F1F95E040BFA7C13D0E2A5E6D4D0D4E47231D9C1E0652BBFDE7041D"
+                  },
+                  {
+                      "path":  "学习资源/chapters/17-l17.html",
+                      "sha256":  "994EB7470BE36CF654BB0F5D06837C6667F29E5EA34E880ABC92109FFC295035"
+                  },
+                  {
+                      "path":  "学习资源/js/backup.js",
+                      "sha256":  "9E87556A1DA67F37474D1A4BCFE8C9089293D892283F976FB518C0DADD70C181"
+                  },
+                  {
+                      "path":  "学习资源/js/learning.js",
+                      "sha256":  "F80D1E5FAF9D2B8E2FEABD07C7B9D99B89351C09CCE062100618534825C8A355"
+                  },
+                  {
+                      "path":  "学习资源/js/search-index.js",
+                      "sha256":  "527605E63DC3057AFE63DE86AA4680DB5CE17CB6B33A6CFBA7C87D434962C522"
+                  },
+                  {
+                      "path":  "学习资源/js/study-state.js",
+                      "sha256":  "A2680F530F75ECB4BA82A8E586776BDEE7C237F660166BDE9EE32F7D1E288C7B"
+                  }
+              ]
+}
