@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 在线学习站点
+    url: https://2048sensei.github.io/C-Learning/
+    about: 直接打开网页版，无需安装
+  - name: 使用说明
+    url: https://github.com/2048sensei/C-Learning/blob/main/学习资源/使用说明.txt
+    about: 学习记录保存、备份恢复与本地验收说明

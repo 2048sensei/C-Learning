@@ -1,0 +1,41 @@
+name: 内容建议
+description: 希望新增的章节、练习、示例或功能
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        欢迎提想法。请说明“学的人卡在哪”，比只写“加一章”更有帮助。
+  - type: textarea
+    id: problem
+    attributes:
+      label: 想解决什么问题
+      description: 哪个知识点讲得太快、哪个练习不够、哪类读者需要它
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 你建议怎么做
+      description: 章节结构、示例代码、练习形式都可以
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: 涉及范围
+      options:
+        - 主线章节（01–17）
+        - 附录（例题 / 易错 / 术语 / 速查 / 工具箱）
+        - 单片机实践
+        - 页面功能（搜索、主题、进度、备份）
+        - 仓库与发布流程
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: 参考材料
+      description: 书籍、课程、标准文档链接等（可选）
